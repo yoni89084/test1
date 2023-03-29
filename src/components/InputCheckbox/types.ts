@@ -3,7 +3,7 @@ import { FunctionComponent } from "react"
 type InputCheckboxProps = {
   id: string | number
   checked?: boolean
-  onChange: (newValue: boolean) => void
+  onClick: (newValue: boolean) => void
   disabled?: boolean
 }
 

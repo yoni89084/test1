@@ -198,6 +198,19 @@
       "merchant": "Tasty Restaurant",
       "date": "8/3/2022",
       "approved": false
+    },
+    {
+      "id": "c8296067-2131-4a2c-93a5-826a6d8942c3",
+      "amount": 400.91,
+      "employee": {
+        "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+        "firstName": "James",
+        "lastName": "Smith",
+        "extras": 2
+      },
+      "merchant": "Potato Place Restaurant",
+      "date": "8/15/2022",
+      "approved": true
     }
   ]
 }
